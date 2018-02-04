@@ -1,0 +1,13 @@
+# editors
+.vscode/
+.idea/
+
+# development sources
+node_modules/
+index.ts
+cli.ts
+example.ts
+tsconfig*
+**/*.log
+
+.npmignore

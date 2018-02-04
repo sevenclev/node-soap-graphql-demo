@@ -1,0 +1,8 @@
+# editors
+.vscode/
+.idea/
+
+# development sources
+node_modules/
+dist/
+**/*.log
